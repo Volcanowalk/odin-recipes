@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E4DFDA;
+}
+
+.section_title {
+    color: #161032;
+    text-decoration: underline;
+}
+
+.recipe_title {
+    font-family: 'Brush Script MT';
+    font-size: 70px;
+    color: #19323C;
+}
+
+h1 {
+    color: #A93F55;
+}
+
+.recipe_list li {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
